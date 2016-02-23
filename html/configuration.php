@@ -11,14 +11,14 @@ class JConfig {
 	public $access = '1';
 	public $debug = '0';
 	public $debug_lang = '0';
-	public $dbtype = 'mysqli';
+	public $dbtype = 'mysql';
 	public $host = 'localhost';
 	public $user = 'root';
 	public $password = 'moneymoneymoney';
 	public $db = 'lessons';
-	public $dbprefix = 'yukqz_';
+	public $dbprefix = 'escqi_';
 	public $live_site = '';
-	public $secret = 'YTT05Sh3yXY3TLnw';
+	public $secret = 'PZ82vSW3PjHyTBAT';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'https://help.joomla.org/proxy/index.php?option=com_help&keyref=Help{major}{minor}:{keyref}';
